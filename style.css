@@ -546,3 +546,6 @@ td:last-child{
 th:last-child{
     text-align: right;
 }
+.cart-info a:hover{
+    text-decoration: underline;
+}
